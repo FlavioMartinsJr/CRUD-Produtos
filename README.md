@@ -1,14 +1,14 @@
 <h1 align="Center">
-  :computer: Projeto Urna
+  :computer: CRUD-Produtos
 </h1><br>
 
 ## :bell: Informações:
 
-Projeto elaborado no Curso técnico de Desenvolvimento de Sistema com intuito realizar uma eleição de gremio nesse projeto foi feito tambem a integração com banco de dados ultilizando MySql, a parte do front end foi feita apenas com o windows forms sem a ultilização de framework, o que vai ta disponivel;
+Projeto elaborado no Curso de Analise e Desenvolvimento de Sistema na instituição de ensino Superior Tecnologo Fatec - Santana de Parnaíba com intuito realizar um CRUD basico de um sistema para controlar produtos nesse projeto foi feito tambem a integração com banco de dados ultilizando o MySql, o que vai ta disponivel;
 
 - Solução do projeto com Classes;
 - Script do Banco De Dados;
-- Feito somente em c#;
+- Feito somente em Java;
 
 ## :open_file_folder: Download:
 
@@ -26,11 +26,11 @@ Projeto elaborado no Curso técnico de Desenvolvimento de Sistema com intuito re
 
   | Login | Cadastro | Gerenciador |
   |---|---|---|
-  |<img  src="/projeto_urnaGit/inicio.png" alt="tela de inicio"/> | <img src="/projeto_urnaGit/cadastro.png" alt="tela de cadastro"/> | <img src="/projeto_urnaGit/gerenciador.png" alt="tela do gerenciador"/> |
+  |<img  src="/CRUD-ProjetoGit/Home.png" alt="tela de inicio"/> | <img src="/CRUD-ProjetoGit/cadastro.png" alt="tela de cadastro"/> | <img src="/CRUD-ProjetoGit/alterar.png" alt="Mensagem de Confirmação"/> |
   
   | Voto | Relatorio | Adicionar |
   |---|---|---|
-  |<img src="/projeto_urnaGit/vota.png" alt="tela de voto"/><br> | <img src="/projeto_urnaGit/relatorio.png" alt="tela de relatorio"/> | <img src="/projeto_urnaGit/adicionar.png" alt="tela para adicionar"/> |
+  |<img src="/CRUD-ProjetoGit/inicio.png" alt="tela de listagem"/><br> | <img src="/CRUD-ProjetoGit/imprimir.png" alt="tela da impressão"/> | <img src="/CRUD-ProjetoGit/negar.png" alt="Mensagem de Erro"/> |
 
 </div></ol>
 

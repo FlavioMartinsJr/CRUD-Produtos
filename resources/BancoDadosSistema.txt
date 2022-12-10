@@ -1,0 +1,19 @@
+CREATE DATABASE sistema;
+USE sistema;
+
+CREATE TABLE tb_produto(
+  id int auto_increment primary key,
+  status char(1)default 'i',
+  nome varchar(255) not null,
+  descricao text not null,
+  qtd_estoque int not null,
+  estoque_minimo int not null,
+  estoque_maximo int not null,
+  preco_compra decimal(12,2) not null,
+  preco_venda decimal(12,2) not null,
+  codigo_barra int not null,
+  ncm int not null,
+  fator decimal(12,2)not null,
+  data_cadastro varchar(255) not null,
+  imagem varchar(255) not null, 
+);

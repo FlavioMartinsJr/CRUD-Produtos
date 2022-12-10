@@ -28,9 +28,9 @@ Projeto elaborado no Curso de Analise e Desenvolvimento de Sistema na instituiç
   |---|---|---|
   |<img  src="/CRUD-ProjetoGit/Home.png" alt="tela de inicio"/> | <img src="/CRUD-ProjetoGit/cadastro.png" alt="tela de cadastro"/> | <img src="/CRUD-ProjetoGit/alterar.png" alt="Mensagem de Confirmação"/> |
   
-  | Listagem | Impressão | Erro |
+  | Listagem | Erro | Impressão 
   |---|---|---|
-  |<img src="/CRUD-ProjetoGit/inicio.png" alt="tela de listagem"/><br> | <img src="/CRUD-ProjetoGit/imprimir.png" alt="tela da impressão"/> | <img src="/CRUD-ProjetoGit/negar.png" alt="Mensagem de Erro"/> |
+  |<img src="/CRUD-ProjetoGit/inicio.png" alt="tela de listagem"/><br> | <img src="/CRUD-ProjetoGit/negar.png" alt="Mensagem de Erro"/> | <img src="/CRUD-ProjetoGit/imprimir.png" alt="tela da impressão"/>|
 
 </div></ol>
 
